@@ -5,4 +5,5 @@ helm deploy command is not available by default with helm and requires a plugin 
 To install ONAP helm plugin execute following
 ```
 helm plugin install https://github.com/Prabhjot-Sethi/onap-deploy
+helm plugin install https://github.com/Prabhjot-Sethi/onap-undeploy
 ```
